@@ -1,0 +1,16 @@
+# Ignorar archivos compilados
+*.class
+*.exe
+*.jar
+
+# Ignorar archivos de configuración de Launch4j
+launch4j.log
+launch.xml
+
+# Ignorar archivos temporales de compilación
+build.bat
+empaquetar.bat
+SpaceInvadersInstaller.iss
+
+# Ignorar iconos no utilizados
+icon.ico
